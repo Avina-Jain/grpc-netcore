@@ -15,6 +15,7 @@ package nidcpower_grpc;
 
 import "nidevice.proto";
 import "session.proto";
+import "session_utilities.proto";
 
 service NiDCPower {
   rpc Abort(AbortRequest) returns (AbortResponse);

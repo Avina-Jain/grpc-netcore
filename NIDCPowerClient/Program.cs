@@ -1,6 +1,7 @@
 ﻿using System;
 using Grpc.Core;
 using NationalInstruments.Grpc.DCPower;
+using NationalInstruments.Grpc.Device;
 
 namespace NIDCPowerClient
 {
@@ -37,6 +38,31 @@ namespace NIDCPowerClient
             else
             {
                 Console.WriteLine($"Initialization was not successful. Status is {initialize_reply.Status}");
+            }
+
+            try
+            {
+                // Create a request message for the EnumerateDevices RPC
+                var request = new EnumerateDevicesRequest();
+
+                // Call the EnumerateDevices RPC and get the response message
+                var devicesClient = new NationalInstruments.Grpc.Device.SessionUtilities.SessionUtilitiesClient(channel);
+                var response = devicesClient.EnumerateDevices(request);
+
+                // Print the list of devices
+                // Print the list of devices
+                foreach (var device in response.Devices)
+                {
+                    Console.WriteLine($"Device Name: {device.Name}");
+                    Console.WriteLine($"Device Model: {device.Model}");
+                    Console.WriteLine($"Device Serial Number: {device.SerialNumber}");
+                    Console.WriteLine($"Device Product Id: {device.ProductId}");
+                    Console.WriteLine();
+                }
+            }
+            catch (RpcException e)
+            {
+                Console.WriteLine("RPC failed: " + e);
             }
 
             client.Close(new CloseRequest

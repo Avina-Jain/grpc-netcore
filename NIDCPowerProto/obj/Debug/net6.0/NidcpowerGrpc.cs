@@ -11,6 +11,7 @@
 #pragma warning disable 0414, 1591, 8981
 #region Designer generated code
 
+using NationalInstruments.Grpc.Device;
 using grpc = global::Grpc.Core;
 
 namespace NationalInstruments.Grpc.DCPower {
