@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "yY38rVFWG1y6FSA6KoyQftaEnG74TyUo+KuAJfoQNVxHY3v0jISQhTA9AFZqf1ZwB/Wo++iBVX5p4sAWp3/AiA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\avjain\\source\\repos\\NIDCPower\\NIDCPowerClient\\NIDCPowerClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\avjain\\.nuget\\packages\\google.protobuf\\3.23.2\\google.protobuf.3.23.2.nupkg.sha512",
+    "C:\\Users\\avjain\\.nuget\\packages\\grpc\\2.46.6\\grpc.2.46.6.nupkg.sha512",
+    "C:\\Users\\avjain\\.nuget\\packages\\grpc.core\\2.46.6\\grpc.core.2.46.6.nupkg.sha512",
+    "C:\\Users\\avjain\\.nuget\\packages\\grpc.core.api\\2.46.6\\grpc.core.api.2.46.6.nupkg.sha512",
+    "C:\\Users\\avjain\\.nuget\\packages\\grpc.tools\\2.54.0\\grpc.tools.2.54.0.nupkg.sha512",
+    "C:\\Users\\avjain\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

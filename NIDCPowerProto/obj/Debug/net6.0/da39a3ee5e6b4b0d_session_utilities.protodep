@@ -1,0 +1,2 @@
+obj\Debug\net6.0/SessionUtilities.cs \
+obj\Debug\net6.0/SessionUtilitiesGrpc.cs: session_utilities.proto

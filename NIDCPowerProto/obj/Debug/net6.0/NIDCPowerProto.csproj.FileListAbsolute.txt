@@ -1,0 +1,12 @@
+C:\Users\avjain\source\repos\NIDCPower\NIDCPowerProto\bin\Debug\net6.0\NIDCPowerProto.deps.json
+C:\Users\avjain\source\repos\NIDCPower\NIDCPowerProto\bin\Debug\net6.0\NIDCPowerProto.dll
+C:\Users\avjain\source\repos\NIDCPower\NIDCPowerProto\bin\Debug\net6.0\NIDCPowerProto.pdb
+C:\Users\avjain\source\repos\NIDCPower\NIDCPowerProto\obj\Debug\net6.0\NIDCPowerProto.csproj.AssemblyReference.cache
+C:\Users\avjain\source\repos\NIDCPower\NIDCPowerProto\obj\Debug\net6.0\NIDCPowerProto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avjain\source\repos\NIDCPower\NIDCPowerProto\obj\Debug\net6.0\NIDCPowerProto.AssemblyInfoInputs.cache
+C:\Users\avjain\source\repos\NIDCPower\NIDCPowerProto\obj\Debug\net6.0\NIDCPowerProto.AssemblyInfo.cs
+C:\Users\avjain\source\repos\NIDCPower\NIDCPowerProto\obj\Debug\net6.0\NIDCPowerProto.csproj.CoreCompileInputs.cache
+C:\Users\avjain\source\repos\NIDCPower\NIDCPowerProto\obj\Debug\net6.0\NIDCPowerProto.dll
+C:\Users\avjain\source\repos\NIDCPower\NIDCPowerProto\obj\Debug\net6.0\refint\NIDCPowerProto.dll
+C:\Users\avjain\source\repos\NIDCPower\NIDCPowerProto\obj\Debug\net6.0\NIDCPowerProto.pdb
+C:\Users\avjain\source\repos\NIDCPower\NIDCPowerProto\obj\Debug\net6.0\ref\NIDCPowerProto.dll

@@ -1,0 +1,4 @@
+obj\Debug\net6.0/Nidcpower.cs \
+obj\Debug\net6.0/NidcpowerGrpc.cs: nidevice.proto\
+ session.proto\
+ nidcpower.proto
